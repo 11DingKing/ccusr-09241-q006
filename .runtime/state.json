@@ -1,0 +1,18 @@
+{
+  "topology": {
+    "sites": {},
+    "links": {},
+    "datasets": {},
+    "tenants": {}
+  },
+  "capacity": {
+    "gpu": {},
+    "bw": {}
+  },
+  "quota": {},
+  "clock": 0,
+  "groups": {},
+  "decisions": {},
+  "decision_index": {},
+  "counters": {}
+}
